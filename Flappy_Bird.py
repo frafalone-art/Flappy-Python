@@ -166,7 +166,7 @@ class PipeManager:
 
 class Menu:
 
-    MEDALS  = ["🥇", "🥈", "🥉", "4.", "5."]
+    MEDALS  = ["1", "2", "3", "4.", "5."]
 
     def __init__(self):
         self.timer = 0
@@ -197,7 +197,7 @@ class Menu:
         screen.blit(rotated, rotated.get_rect(center=(WIDTH // 2, bird_y)))
 
         # Buttons
-        r_play        = self.draw_button("▶  PLAY",       320, (34, 139, 34))
+        r_play        = self.draw_button("  PLAY",       320, (34, 139, 34))
         r_leaderboard = self.draw_button("LEADERBOARD",   390, (30, 100, 180))
         r_credits     = self.draw_button("CREDITS",       460, (100, 100, 100))
 
@@ -206,7 +206,7 @@ class Menu:
 
 class LeaderboardScreen:
 
-    MEDALS = ["🥇", "🥈", "🥉", "4.", "5."]
+    MEDALS = ["1", "2", "3", "4.", "5."]
     COLORS = [
         (255, 215,   0),  # gold
         (192, 192, 192),  # silver
@@ -223,7 +223,7 @@ class LeaderboardScreen:
         panel.fill((0, 0, 0, 170))
         screen.blit(panel, (25, 110))
 
-        title = font.render("🏆  LEADERBOARD", True, (255, 220, 0))
+        title = font.render("  LEADERBOARD", True, (255, 220, 0))
         screen.blit(title, title.get_rect(center=(WIDTH // 2, 140)))
 
         scores = load_scores()
@@ -409,7 +409,7 @@ while True:
             scores = load_scores()
             record = scores[0] if scores else 0
             record_color = (255, 215, 0) if pipes.score == record else (0, 0, 0)
-            rec_txt = font.render(f"🏆 BEST: {record}", True, record_color)
+            rec_txt = font.render(f"BEST: {record}", True, record_color)
             screen.blit(rec_txt, rec_txt.get_rect(center=(WIDTH // 2, HEIGHT // 2 - 40)))
 
             retry = font.render("SPACE TO RESTART", True, (0, 0, 0))
