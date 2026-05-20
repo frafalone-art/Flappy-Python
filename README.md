@@ -76,7 +76,7 @@ flappy-python/
 │   │   ├── background_day.png
 │   │   ├── background_night.png
 │   │   ├── ground.png
-│   │   ├── bird.jpeg
+│   │   ├── bird.png
 │   │   ├── pipe.png
 │   │   └── game_over.png
 │   │
