@@ -129,7 +129,7 @@ The original Flappy Bird concept belongs to Dong Nguyen.
 
 This repository is not affiliated with or endorsed by the original creator.
 
-All included graphics and audio assets are personal assets made for this project.
+All included graphics and audio assets are free assets used for this project.
 
 ---
 
