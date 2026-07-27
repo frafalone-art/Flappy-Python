@@ -45,7 +45,7 @@ pip install pygame
 # ▶️ Run from source
 
 ```bash
-python Flappy_Bird.py
+python main.py
 ```
 
 ---
@@ -89,7 +89,7 @@ flappy-python/
 ├── data/
 │   └── leaderboard.json
 │
-├── Flappy_Bird.py
+├── main.py
 ├── README.md
 └── LICENSE
 ```
