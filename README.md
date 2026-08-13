@@ -17,6 +17,10 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
   <img src="./media/Screenshot_04.png" height="320" alt="Screenshot 4" />
 </p>
 
+<p align="center">
+  <img src="media/cover.png" width="92%" alt="Void Raiders Cover">
+</p>
+
 ---
 
 # 🎮 Gameplay
