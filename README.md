@@ -1,5 +1,4 @@
 # Flappy Python 🐦
-
 A Flappy Bird-inspired clone built with Python and pygame, developed as a personal learning project to explore game development fundamentals.
 
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
@@ -10,17 +9,16 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 ---
 
 # 🎮 Gameplay
-
 - Press **SPACE** or click **▶ PLAY** to start
 - Press **SPACE** to flap
 - Avoid the pipes and the ground
 - Try to beat your highest score
 - Scores are automatically saved locally
+- Unlock new snakes!
 
 ---
 
 # ✨ Features
-
 - Animated main menu
 - Day / night cycle based on real local time
 - Local Top 5 leaderboard system
@@ -29,13 +27,12 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 - Sound effects and background music
 - Game Over screen with highlighted best score
 - Mouse and keyboard support
+- 4 different characters to choose from
 
 ---
 
 # 🛠️ Requirements
-
 Install pygame:
-
 ```bash
 pip install pygame
 ```
@@ -43,7 +40,6 @@ pip install pygame
 ---
 
 # ▶️ Run from source
-
 ```bash
 python main.py
 ```
@@ -51,9 +47,7 @@ python main.py
 ---
 
 # 📦 EXE Version
-
 A standalone Windows `.exe` version will be available in the repository Releases section.
-
 The executable includes:
 - all images
 - sound effects
@@ -65,7 +59,6 @@ No Python installation is required.
 ---
 
 # 📁 Project Structure
-
 ```text
 flappy-python/
 │
@@ -77,15 +70,15 @@ flappy-python/
 │   │   ├── background_night.png
 │   │   ├── ground.png
 │   │   ├── bird.png
-│   │   ├── pipe.png
+│   │   ├── snake_red.png
+|   |   ├── pipe.png
+|   |   ├── snake_black.png
+|   |   ├── snake_yellow.png
 │   │   └── game_over.png
 │   │
 │   └── sounds/
-│       ├── battito.wav
-│       ├── defeat.wav
-│       ├── point.wav
-│       └── musica.mp3
-│
+│       └── defeat.wav
+│    
 ├── data/
 │   └── leaderboard.json
 │
@@ -97,9 +90,7 @@ flappy-python/
 ---
 
 # 🧠 Concepts Covered
-
 This project was built to practice:
-
 - Object-oriented programming
 - Game loop architecture
 - State management
@@ -112,35 +103,37 @@ This project was built to practice:
 ---
 
 # 🎨 Screens Included
-
 - Main Menu
 - Gameplay
 - Leaderboard
 - Credits
 - Game Over
+- Characters
+
+---
+
+# ❤️ Contributors
+Huge thanks to everyone whose work helped bring this project to life:
+
+- **[messmeme](https://itch.io/profile/messmeme)** — pixel art assets
+- **[MegaCrash](https://itch.io/profile/megacrash)** — pixel art assets
+- **[Pixabay.com](https://pixabay.com)** — sound effects and music assets
 
 ---
 
 # ⚠️ Disclaimer
-
 This project was created for educational and personal purposes only.
-
 The original Flappy Bird concept belongs to Dong Nguyen.
-
 This repository is not affiliated with or endorsed by the original creator.
-
 All included graphics and audio assets are free assets used for this project.
 
 ---
 
 # 👨‍💻 Author
-
 **Francesco Falone**
-
 Personal project made to improve Python and pygame development skills.
 
 ---
 
 # 📄 License
-
 This project is licensed under the MIT License.
