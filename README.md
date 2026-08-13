@@ -1,4 +1,4 @@
-# Flappy Python 🐦
+# <img src="media/icon.ico" width="40" align="center"> Flappy Python 
 A Flappy Bird-inspired clone built with Python and pygame, developed as a personal learning project to explore game development fundamentals.
 
 [![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/flappy-python)
@@ -12,7 +12,7 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./media/Screenshot_01.jpeg" height="320" alt="Screenshot 1" />
+  <img src="./media/Screenshot_01.png" height="320" alt="Screenshot 1" />
   <img src="./media/Screenshot_02.png" height="320" alt="Screenshot 2" />
   <img src="./media/Screenshot_03.png" height="320" alt="Screenshot 3" />
   <img src="./media/Screenshot_04.png" height="320" alt="Screenshot 4" />
@@ -63,7 +63,7 @@ python main.py
 ---
 
 # 📦 EXE Version
-A standalone Windows `.exe` version will be available in the repository Releases section.
+A standalone Windows `.exe` version will be available in the repository Releases section or in the official [itch.io page](https://francescofalone.itch.io/flappy-python).
 The executable includes:
 - all images
 - sound effects
