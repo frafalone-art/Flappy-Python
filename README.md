@@ -1,6 +1,7 @@
 # Flappy Python 🐦
 A Flappy Bird-inspired clone built with Python and pygame, developed as a personal learning project to explore game development fundamentals.
 
+[![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/flappy-python)
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=pygame)](https://pygame.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
