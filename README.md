@@ -8,6 +8,17 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./media/Screenshot_01.jpeg" height="320" alt="Screenshot 1" />
+  <img src="./media/Screenshot_02.png" height="320" alt="Screenshot 2" />
+  <img src="./media/Screenshot_03.png" height="320" alt="Screenshot 3" />
+  <img src="./media/Screenshot_04.png" height="320" alt="Screenshot 4" />
+</p>
+
+---
+
 # 🎮 Gameplay
 - Press **SPACE** or click **▶ PLAY** to start
 - Press **SPACE** to flap
