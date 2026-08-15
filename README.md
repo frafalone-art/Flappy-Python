@@ -133,7 +133,7 @@ Huge thanks to everyone whose work helped bring this project to life:
 
 - **[messmeme](https://itch.io/profile/messmeme)** — pixel art assets
 - **[MegaCrash](https://itch.io/profile/megacrash)** — pixel art assets
-- **[Pixabay.com](https://pixabay.com)** — sound effects and music assets
+- **[Pixabay.com](https://pixabay.com)** — sound effects
 
 ---
 
