@@ -5,7 +5,7 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=pygame)](https://pygame.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-![Purpose](https://img.shields.io/badge/Purpose-Educational-FFC312)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-orange)
 
 ---
 
