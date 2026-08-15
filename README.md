@@ -128,7 +128,7 @@ This project was built to practice:
 
 ---
 
-# ❤️ Contributors
+# 💜 Contributors
 Huge thanks to everyone whose work helped bring this project to life:
 
 - **[messmeme](https://itch.io/profile/messmeme)** — pixel art assets
