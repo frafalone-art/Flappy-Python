@@ -586,7 +586,7 @@ class CreditsScreen:
             "A personal project",
             "to learn programming",
             "Dev: Francesco Falone",
-            "v1.1.0",
+            "v2.0.0",
         ]
         for i, line in enumerate(lines):
             txt = font_small.render(line, True, (255, 255, 255))
