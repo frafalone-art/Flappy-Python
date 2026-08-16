@@ -3,7 +3,7 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 
 [![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/flappy-python)
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
-[![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=vs)](https://www.pygame.org/docs/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=androidstudio)](https://www.pygame.org/docs/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-orange)
 
