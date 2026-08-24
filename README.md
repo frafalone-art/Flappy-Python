@@ -69,6 +69,7 @@ The executable includes:
 - sound effects
 - music
 - leaderboard support
+- different characters 
 
 No Python installation is required.
 
