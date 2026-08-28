@@ -40,7 +40,7 @@ def save_scores(new_score):
 
 def load_characters():
     # Four characters: first unlocked by default, others locked until thresholds
-    defaults = {"is_unlocked": [True, False, False, False], "thresholds": [0, 25, 50, 100], "unlock_all": True, "selected": 0}
+    defaults = {"is_unlocked": [True, False, False, False], "thresholds": [0, 25, 50, 100], "unlock_all": False, "selected": 0}
     if os.path.exists(CHAR_FILE):
         try:
             with open(CHAR_FILE, "r") as f:
