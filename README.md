@@ -48,9 +48,9 @@ A Flappy Bird-inspired clone built with Python and pygame, developed as a person
 ---
 
 # 🛠️ Requirements
-Install pygame:
+Install the dependencies:
 ```bash
-pip install pygame
+pip install -r requirements.txt 
 ```
 
 ---
